@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fee13f3c-e46f-4298-8eae-3fd06f4f8701" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2021.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sonar.java" afterDir="false" />
-    </list>
+    <list default="true" id="fee13f3c-e46f-4298-8eae-3fd06f4f8701" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638370126126</updated>
-      <workItem from="1638370128587" duration="2245000" />
+      <workItem from="1638370128587" duration="2351000" />
     </task>
     <servers />
   </component>
